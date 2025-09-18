@@ -15,7 +15,7 @@ You will:
 ## Branch Summaries
 
 - `main`: Original story starter
-- `hero-path`: _[Describe your changes here]_
+- `hero-path`: You call a wizard who reveals the sword you found is cursed, but cleanses it, leaving you to sell the sword and you and your family very rich
 - `villain-path`: _[Describe your changes here]_
 
 ## Final Checklist
