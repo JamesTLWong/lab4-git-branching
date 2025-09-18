@@ -12,6 +12,7 @@ def intro():
 
 def left_path():
     print("You walk left and find a mysterious glowing sword stuck in a stone.")
+    print("You call up a local wizard to inspect the obviously magical sword, because you have no idea what kind of magics could be at work.")
 
 def right_path():
     print("You walk right and encounter a talking squirrel who challenges you to a duel.")
