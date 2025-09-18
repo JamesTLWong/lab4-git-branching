@@ -16,7 +16,7 @@ You will:
 
 - `main`: Original story starter
 - `hero-path`: _[Describe your changes here]_
-- `villain-path`: _[Describe your changes here]_
+- `villain-path`: A squirrel tricks you into grabbing a cursed sword, which then takes over your body until you are slain by a wizard
 
 ## Final Checklist
 
