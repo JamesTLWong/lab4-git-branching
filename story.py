@@ -15,6 +15,9 @@ def left_path():
 
 def right_path():
     print("You walk right and encounter a talking squirrel who challenges you to a duel.")
+    print("You accept, but noticing you are unarmed the squirrl leads you to a glowing sword in a stone")
+    print("Confused by why you would need a sword to fight a squirrel, you nevertheless accept the gesture and try to pull the sword from the stone")
+    print("As soon as you grab the handle a loud cackle bursts through your mind. The sword was cursed! And now so are you!")
 
 def center_path():
     print("You make your own path and cut through the brush. You become lost to the forest.")
