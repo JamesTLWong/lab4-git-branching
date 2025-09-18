@@ -18,6 +18,9 @@ def right_path():
     print("You accept, but noticing you are unarmed the squirrl leads you to a glowing sword in a stone")
     print("Confused by why you would need a sword to fight a squirrel, you nevertheless accept the gesture and try to pull the sword from the stone")
     print("As soon as you grab the handle a loud cackle bursts through your mind. The sword was cursed! And now so are you!")
+    print("Your body is no longer your own, the curse's plan to use the squirrel that touched it to lure in a human worked")
+    print("The curse uses your body to wreak havoc on innocents until someone finally stops you")
+    print("The last thing you see is a wizard standing over you, shaking their head, saying 'tsk, what a shame, I hope this poor fool can at least rest now")
 
 def center_path():
     print("You make your own path and cut through the brush. You become lost to the forest.")
